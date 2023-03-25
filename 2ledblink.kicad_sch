@@ -545,7 +545,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 15d5b99b-0553-47c0-8482-e83f25f1267a)
     (property "Reference" "R2" (id 0) (at 66.04 35.56 90))
-    (property "Value" "R 220" (id 1) (at 66.04 38.1 90))
+    (property "Value" "R 330" (id 1) (at 66.04 38.1 90))
     (property "Footprint" "" (id 2) (at 66.04 40.132 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -742,7 +742,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf314a8d-4e19-4773-ae14-4b5d54c2b9b9)
     (property "Reference" "R1" (id 0) (at 215.9 34.29 90))
-    (property "Value" "R 220" (id 1) (at 215.9 36.83 90))
+    (property "Value" "R 330" (id 1) (at 215.9 36.83 90))
     (property "Footprint" "" (id 2) (at 215.9 42.418 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -783,10 +783,10 @@
       (reference "Q2") (unit 1) (value "Q_NPN_EBC C945") (footprint "")
     )
     (path "/bf314a8d-4e19-4773-ae14-4b5d54c2b9b9"
-      (reference "R1") (unit 1) (value "R 220") (footprint "")
+      (reference "R1") (unit 1) (value "R 330") (footprint "")
     )
     (path "/15d5b99b-0553-47c0-8482-e83f25f1267a"
-      (reference "R2") (unit 1) (value "R 220") (footprint "")
+      (reference "R2") (unit 1) (value "R 330") (footprint "")
     )
     (path "/6117f319-81aa-43cb-985b-9e705e67b705"
       (reference "R3") (unit 1) (value "R 220") (footprint "")
